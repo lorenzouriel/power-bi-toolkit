@@ -18,10 +18,11 @@ If you're interested in joining this collaborative effort, **feel free to fork t
 
 #### Example - Light Theme
 ![Light](/pics/light-theme.png)
+- *Check the [Dashboard here](https://github.com/lorenzouriel/powerbi-dashboards/blob/main/Dashboards/PeopleAnalytics/README.md)*
 
 #### Example - Dark Theme
 ![Dark](/pics/dark-theme.png)
-
+- *Check the [Dashboard here](https://github.com/lorenzouriel/powerbi-dashboards/tree/main/Dashboards/Logistica)*
 
 ## 💾 Clone or Fork Repository
 ```bash
